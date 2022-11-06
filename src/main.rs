@@ -13,7 +13,7 @@ fn main() -> ExitCode {
     
     println!("\nWe're going to test 'ExitCode' in RUST.  Neat!");
     sleep(time_2);
-    println!("\nGoing to sleep for 6 seconds!  Then clearing the screen.");
+    println!("\nGoing to sleep for 9 seconds!  Then clearing the screen.");
     sleep(time_2);
     println!("\nDid you see the error for 'Hell yeah motherfucker!'?");
     sleep(time);
